@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "awes-testcafe",
+  "version": "0.0.1",
+  "description": "List of additional helpers for fast working with testcafe.",
+  "author": "Yevhen Lisovenko <y.lisovenko@awescode.de>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.awescode.com:packages/awes-testcafe.git"
+  },
+  "dependencies": {
+    "require-directory": "^2.1.1"
+  }
+}
